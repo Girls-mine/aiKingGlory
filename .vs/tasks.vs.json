@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-attdata",
+      "appliesTo": "data/attdata/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-attdata",
+      "appliesTo": "data/attdata/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-attdata",
+      "appliesTo": "data/attdata/",
+      "type": "launch"
+    }
+  ]
+}
