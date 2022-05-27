@@ -1,0 +1,7 @@
+adb devices
+
+adb shell getprop ro.product.cpu.abi
+
+adb push libs/$ABI/minitouch /data/local/tmp/   $ABI是本地minitouch对应的文件夹
+
+adb shell chmod 777 /data/local/tmp/minitouch

@@ -1,0 +1,8 @@
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+
+pip install pywin32
+pip install pyminitouch
+pip install pynput
+
+pip install PyQt5
+pip install opencv-python
